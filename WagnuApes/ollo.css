@@ -1,0 +1,21 @@
+.cioccolato {
+     color: chocolate;
+	 text-align: center;
+}
+.nero {
+     color: black;	
+	
+}
+.snistra {
+	text-align: left;
+}
+.destra {
+	text-align: right:
+}
+.centro {
+	text-align: center;
+}
+body {
+	background-color:00FFFF;
+} 
+
